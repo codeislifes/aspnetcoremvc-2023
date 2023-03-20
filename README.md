@@ -1,2 +1,1 @@
-# aspnetcoremvc-2023
-2023 Asp.Net Core Mvc Projesi
+Bu proje [code is life](https://www.youtube.com/c/codeislifes) youtube kanalı için eğitim amacıyla hazırlanmıştır.
