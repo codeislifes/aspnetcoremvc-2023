@@ -4,8 +4,8 @@
 
 var mvcBuilder = builder.Services.AddControllersWithViews();
 
-if (builder.Environment.IsDevelopment())
-    mvcBuilder.AddRazorRuntimeCompilation();
+//if (builder.Environment.IsDevelopment())
+//    mvcBuilder.AddRazorRuntimeCompilation();
 
 //if (isActiveRazorPages)
 //    builder.Services.AddRazorPages();
