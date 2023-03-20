@@ -2,9 +2,9 @@ Bu proje [code is life](https://www.youtube.com/c/codeislifes) youtube kanalı i
 
 # Başlarken
 
-> Bu projeyi çalıştırmak ve eğitime dahil olmak için Visual Studio kurulumunu gerçekleştirmeniz gerekmektedir.
+> Bu projeyi çalıştırmak ve eğitime dahil olmak için Visual Studio kurulumunu gerçekleştirmeniz gerekmektedir. Ayrıca proje içerisinde kullanılacak olan HTML template için open source repository ve benzeri ihtiyaçları indirmeniz gerekebilir.
 
-- Visual Studio Community 2022[Download](https://visualstudio.microsoft.com/tr/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&workload=dotnet-dotnetwebcloud&passive=false#dotnet) 
+- Visual Studio Community 2022 [Download](https://visualstudio.microsoft.com/tr/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&workload=dotnet-dotnetwebcloud&passive=false#dotnet)
 
 # DESTEKLEYİN!
 
@@ -25,3 +25,7 @@ Bu proje [code is life](https://www.youtube.com/c/codeislifes) youtube kanalı i
 ⏺️ FACEBOOK GRUBU :  https://bit.ly/3BYxNQr
 
 🔥 nopCommerce Telegram : https://bit.ly/3z2H08B
+
+# Kaynaklar
+
+> Admin Template - [Download](https://themeselection.com/item/sneat-free-bootstrap-html-admin-template/)
