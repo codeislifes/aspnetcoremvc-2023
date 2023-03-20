@@ -6,6 +6,6 @@ public class NavBarViewComponent : ViewComponent
 {
     public async Task<IViewComponentResult> InvokeAsync()
     {
-        return View();
+        return await Task.FromResult(View());
     }
 }

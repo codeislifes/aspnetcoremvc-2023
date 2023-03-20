@@ -2,8 +2,7 @@
 
 //var isActiveRazorPages = true;
 
-builder.Services.AddControllersWithViews()
-                 .AddRazorRuntimeCompilation();
+builder.Services.AddControllersWithViews();
 
 //if (isActiveRazorPages)
 //    builder.Services.AddRazorPages();
