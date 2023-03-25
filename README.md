@@ -8,23 +8,27 @@ Bu proje [code is life](https://www.youtube.com/c/codeislifes) youtube kanalı i
 
 # DESTEKLEYİN!
 
-🎁 KATILIN : https://bit.ly/3E3W5KG
+> 🎁 KATILIN : https://bit.ly/codeislife-katil
 
-🎉 ABONE OLUN :  https://bit.ly/3leP9Sj
+> 🎉 ABONE OLUN :  https://bit.ly/aboneolun-cil
 
-⏺️ GITHUB : http://bit.ly/3n4LNG6
+> 🥇DISCORD : https://bit.ly/discord-cil
 
-⏺️ TIKTOK : https://bit.ly/3ZXX9dR
+> ⏺️ TELEGRAM : https://bit.ly/telegram-cil
 
-⏺️ TELEGRAM : https://bit.ly/3hkjKNq
+> ⏺️ GITHUB : https://bit.ly/github-cil
 
-⏺️ INSTAGRAM : https://bit.ly/3nmuMp8
+> ⏺️ INSTAGRAM : https://bit.ly/instagram-cil
 
-⏺️ FACEBOOK SAYFASI : https://bit.ly/3tI70VX
+> ⏺️ TIKTOK : https://bit.ly/tiktok-cil
 
-⏺️ FACEBOOK GRUBU :  https://bit.ly/3BYxNQr
+> ⏺️ TWITTER : https://bit.ly/twitter-cil
 
-🔥 nopCommerce Telegram : https://bit.ly/3z2H08B
+> ⏺️ FACEBOOK SAYFASI : https://bit.ly/facebook-page-cil
+
+> ⏺️ FACEBOOK GRUBU :  https://bit.ly/facebook-cil
+
+> 🔥 nopCommerce Telegram : https://bit.ly/telegram-nopcommerce
 
 # Kaynaklar
 
