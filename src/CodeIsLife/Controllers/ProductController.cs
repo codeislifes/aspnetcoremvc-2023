@@ -1,12 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace CodeIsLife.Controllers
+namespace CodeIsLife.Controllers;
+
+public class ProductController : Controller
 {
-    public class ProductController : Controller
+    public IActionResult List()
     {
-        public IActionResult List()
-        {
-            return View();
-        }
+        return View();
     }
 }

@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" class="light-style layout-menu-fixed">
+<head>
+    <title>Dashboard - Analytics | Sneat - Bootstrap 5 HTML Admin Template - Pro</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta name="description" content="" />
+
+    @await Html.PartialAsync("_FavIcon")
+    @await Html.PartialAsync("_Fonts")
+    @await Html.PartialAsync("_Styles")
+</head>
+
+<body>
+    <div class="layout-wrapper layout-content-navbar">
+        <div class="layout-container">
+            @await Component.InvokeAsync("LayoutMenu")
+            <div class="layout-page">
+               @await Component.InvokeAsync("NavBar")
+                <div class="content-wrapper">
+                    <div class="container-fluid flex-grow-1 container-p-y">
+                        @RenderBody()
+                    </div>
+                    @await Component.InvokeAsync("Footer")
+                    <div class="content-backdrop fade"></div>
+                </div>
+            </div>
+        </div>
+        <div class="layout-overlay layout-menu-toggle"></div>
+    </div>
+
+    @await Html.PartialAsync("_Scripts")
+</body>
+</html>

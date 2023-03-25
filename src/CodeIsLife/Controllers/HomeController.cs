@@ -1,14 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace CodeIsLife.Controllers
+namespace CodeIsLife.Controllers;
+
+public class HomeController : Controller
 {
-    // Home - HomeController
-    // Product - ProductController
-    public class HomeController : Controller
+    public IActionResult Index()
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+        return View();
     }
 }
