@@ -8,11 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
-    <Folder Include="wwwroot\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="7.0.4" />
   </ItemGroup>
 
 </Project>
