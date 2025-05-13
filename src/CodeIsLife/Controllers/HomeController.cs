@@ -1,16 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CodeIsLife.Core;
+using Microsoft.AspNetCore.Mvc;
 
 namespace CodeIsLife.Controllers;
 
-public class HomeController  : Controller
+public class HomeController : BaseController
 {
     public IActionResult Index()
     {
-        //ViewData["name"] = "code is life";
-        //ViewData["obj"] = new { name = "code is life", state = true };
-        //ViewBag.name = "code is life";
-        //ViewBag.obj = new { name = "code is life", state = true };
-
+        SetTitle("Günlük Özet");
         return View();
     }
 

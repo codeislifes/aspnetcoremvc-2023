@@ -16,6 +16,7 @@ var app = builder.Build();
 
 app.UseStaticFiles();
 
+// domain.com/product
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}");
